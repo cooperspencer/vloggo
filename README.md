@@ -3,7 +3,7 @@ Logging module for V.
 
 # How to get?
 ```bash
-v get https://github.com/cooperspencer/floggo
+v install https://github.com/cooperspencer/floggo
 ```
 
 # Usage
